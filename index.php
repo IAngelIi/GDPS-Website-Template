@@ -44,7 +44,7 @@ include 'config.php';
 
         <div class="text">
             <!-- Do not remove pls -->
-            <span class="white">made by <span class="blue"><u><a href="*"
+            <span class="white">made by <span class="gray"><u><a href="*"
                             target="_blank">ShadownixGDPS</a>
         </div>
     </center>
