@@ -44,8 +44,8 @@ include 'config.php';
 
         <div class="text">
             <!-- Do not remove pls -->
-            <span class="white">Template by <span class="blue"><u><a href="https://www.youtube.com/c/ParadoxGDPS"
-                            target="_blank">Starmor</a>
+            <span class="white">made by <span class="blue"><u><a href="https://www.youtube.com/c/ParadoxGDPS"
+                            target="_blank">ShadownixGDPS</a>
         </div>
     </center>
 </body>
