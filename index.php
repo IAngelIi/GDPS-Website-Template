@@ -9,7 +9,7 @@ include 'config.php';
     <link rel="stylesheet" type="text/css" href="files/style.css">
 </head>
 
-<body style="background: linear-gradient(#6D00FC, #330074);">
+<body style="background: linear-gradient(#909090, #000000);">
     <center>
         <img src="logo.png" style="max-width: 40%; height: auto;">
 
