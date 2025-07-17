@@ -5,5 +5,5 @@ $tools = "toolspage";
 $demonlist = "demonlist";
 $youtube = "youtubeprofile";
 $discord = "discordserver";
-$about = "Write information about your GDPS and its features.";
+$about = "Я Глава IT-части ShadownixTeam заявляю что я и мой дорогой друг Nvm(Передаю ему привет) унизили самого хуесосущего Соовнера в мире имя ему - sireny.";
 ?>
