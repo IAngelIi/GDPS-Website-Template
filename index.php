@@ -11,7 +11,7 @@ include 'config.php';
 
 <body style="background: linear-gradient(#909090, #000000);">
     <center>
-        <img src="logoShadownixGDPS.png" style="max-width: 40%; height: 100;">
+        <img src="logoShadownixGDPS.png" style="max-width: 100%; height: auto;">
 
         <div>
             <br>
